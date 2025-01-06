@@ -24,7 +24,7 @@ jobs:
     - name: Create Github Release
       uses: ncipollo/release-action@v1
       with:
-        artifacts: Arknights.ahk.exe
+        artifacts: src/Arknights.ahk.exe
         tag: ${{ env.TODAY }}
         commit: master
         allowUpdates: true
