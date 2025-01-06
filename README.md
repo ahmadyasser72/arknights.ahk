@@ -12,7 +12,7 @@ arknights-macro is a collection of [AutoHotkey v2](https://www.autohotkey.com/v2
 2. Install [Android Debug Bridge (ADB)](https://developer.android.com/tools/releases/platform-tools)
 3. Clone the repository along with all its submodules
 ```bash
-git clone --recurse-submodules https://github.com/aynh/arknights-macro.git
+git clone --recurse-submodules https://github.com/ahmadyasser72/arknights.ahk.git
 ```
 
 ## Usage
