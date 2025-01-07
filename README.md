@@ -15,6 +15,9 @@ arknights-macro is a collection of [AutoHotkey v2](https://www.autohotkey.com/v2
 git clone --recurse-submodules https://github.com/ahmadyasser72/arknights.ahk.git
 ```
 
+> [!NOTE]
+> You can also download the precompiled exe from [GitHub release](https://github.com/ahmadyasser72/arknights.ahk/releases/latest)
+
 ## Usage
 
 Start the script by opening the main script (`src/Arknights.ahk`)
